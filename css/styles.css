@@ -511,10 +511,6 @@ img {
 
 .footer-section {
     display: flex;
-}
-
-.footer-main-container {
-    display: flex;
     align-items: baseline;
 }
 
@@ -527,7 +523,6 @@ img {
     width: 264px;
     height: 112px;
     margin-right: 120px;
-
 }
 
 .footer-logo {
