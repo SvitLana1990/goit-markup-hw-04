@@ -154,7 +154,7 @@ img {
 }
 
 .hero {
-    padding: 96px 0 120px
+    padding: 96px 0 120px;
 }
 
 .hero-main-page {
@@ -166,8 +166,7 @@ img {
     background-position: center;
     background-size: cover;
     padding: 188px 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0 auto;
 }
 
 .hero-main-container {}
@@ -484,7 +483,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 16px 32px;
     color: #8e8f99;
     ;
 }
@@ -521,7 +519,6 @@ img {
 
 .footer-container {
     width: 264px;
-    height: 112px;
     margin-right: 120px;
 }
 
@@ -552,7 +549,6 @@ img {
 
 .footer-social-container {
     width: 208px;
-    height: 80px;
 }
 
 .footer-social-text {
